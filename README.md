@@ -15,6 +15,7 @@ The Star of North, let you arise!  <br/>
 А.С. Пушкина писал:
 >Под старость жизнь такая гадость...
 ***
+## Блок кода
     d = {}                                                       
     for c in (65, 97):                                           
         for i in range(26):                                      
