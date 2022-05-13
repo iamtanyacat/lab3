@@ -3,14 +3,22 @@ Vysotin Ilya, Kosheleva Tanya AT-93
 ***
 ## Стихотворение
                                                                                                                         
-Winter Morning <br/>    
-<br/> 
-Hard frost and sunshine – a day of pleasure!  <br/>           
-You are still drowsy at your leisure –  <br/>                 
-It’s time, my beauty, ope your eyes!  <br/>                   
-Let you get free of blissful dreaming,  <br/>                 
-To meet the North Aurora, deeming  <br/>                      
-The Star of North, let you arise!  <br/>   
+Winter Morning  
+
+  
+  
+Hard frost and sunshine – a day of pleasure!  
+
+You are still drowsy at your leisure –  
+
+It’s time, my beauty, ope your eyes!  
+
+Let you get free of blissful dreaming,  
+
+To meet the North Aurora, deeming  
+
+The Star of North, let you arise!  
+
                                                                                                         
 ***
 А.С. Пушкина писал:
