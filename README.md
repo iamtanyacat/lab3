@@ -1,9 +1,9 @@
 # lab3
 Vysotin Ilya, Kosheleva Tanya AT-93
-# Стихотворение
+## Стихотворение
 --------------------------------------------------------------
 Winter Morning <br/>                                         |
-                                                             |
+                                                             
 Hard frost and sunshine – a day of pleasure! <br/>           |
 You are still drowsy at your leisure – <br/>                 |
 It’s time, my beauty, ope your eyes! <br/>                   |
@@ -20,5 +20,5 @@ for c in (65, 97):                                           |
                                                              |
 print("".join([d.get(c, c) for c in s]))                     |
 -------------------------------------------------------------- 
-# Картиночка
+## Картиночка
 ![original](https://user-images.githubusercontent.com/105457873/168159706-707b85c8-cbfd-4b78-85f6-347120fb45b8.jpg)
