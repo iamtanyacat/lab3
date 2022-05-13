@@ -2,7 +2,7 @@
 Vysotin Ilya, Kosheleva Tanya AT-93
 ## Стихотворение
 --------------------------------------------------------------
-Winter Morning  <br/>                                         
+Winter Morning                                       
 
 
 Hard frost and sunshine – a day of pleasure!  <br/>           
