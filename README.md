@@ -15,12 +15,12 @@ The Star of North, let you arise!  <br/>
 А.С. Пушкина писал:
 >Под старость жизнь такая гадость...
 ***
-<d = {}                                                       
-for c in (65, 97):                                           
-    for i in range(26):                                      
-        d[chr(i+c)] = chr((i+13) % 26 + c)                   
+    d = {}                                                       
+    for c in (65, 97):                                           
+        for i in range(26):                                      
+            d[chr(i+c)] = chr((i+13) % 26 + c)                   
                                                              
-print("".join([d.get(c, c) for c in s]))  >                   
+    print("".join([d.get(c, c) for c in s]))              
 ***
 ## Неупорядоченный список
 * Прочитать справку Markdown
