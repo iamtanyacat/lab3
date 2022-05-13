@@ -2,14 +2,14 @@
 Vysotin Ilya, Kosheleva Tanya AT-93
 ## Стихотворение
 --------------------------------------------------------------
-Winter Morning <br/>                                         
+Winter Morning  <br/>                                         
                                                              
-Hard frost and sunshine – a day of pleasure! <br/>           
-You are still drowsy at your leisure – <br/>                 
-It’s time, my beauty, ope your eyes! <br/>                   
-Let you get free of blissful dreaming, <br/>                 
-To meet the North Aurora, deeming <br/>                      
-The Star of North, let you arise! <br/>                      
+Hard frost and sunshine – a day of pleasure!  <br/>           
+You are still drowsy at your leisure –  <br/>                 
+It’s time, my beauty, ope your eyes!  <br/>                   
+Let you get free of blissful dreaming,  <br/>                 
+To meet the North Aurora, deeming  <br/>                      
+The Star of North, let you arise!  <br/>                      
 --------------------------------------------------------------
 А.С. Пушкина писал: "Под старость жизнь такая гадость...".   |
 --------------------------------------------------------------
