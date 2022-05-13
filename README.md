@@ -3,26 +3,28 @@ Vysotin Ilya, Kosheleva Tanya AT-93
 ***
 ## Стихотворение
                                                                                                                         
-Winter Morning  
+    Winter Morning  
 
   
-  
-Hard frost and sunshine – a day of pleasure!  
+    Hard frost and sunshine – a day of pleasure!  
 
-You are still drowsy at your leisure –  
+    You are still drowsy at your leisure –  
 
-It’s time, my beauty, ope your eyes!  
+    It’s time, my beauty, ope your eyes!  
 
-Let you get free of blissful dreaming,  
+    Let you get free of blissful dreaming,  
 
-To meet the North Aurora, deeming  
+    To meet the North Aurora, deeming  
 
-The Star of North, let you arise!  
+    The Star of North, let you arise!  
 
                                                                                                         
 ***
-А.С. Пушкина писал:
->Под старость жизнь такая гадость...
+## Цитата
+
+    А.С. Пушкина писал:
+    >Под старость жизнь такая гадость...
+    
 ***
 ## Блок кода
     d = {}                                                       
@@ -33,17 +35,14 @@ The Star of North, let you arise!
     print("".join([d.get(c, c) for c in s]))              
 ***
 ## Неупорядоченный список
-* Прочитать справку Markdown
-* Выполнить пункты лабораторной
-* Сделать отчет
+
+    * Прочитать справку Markdown
+    * Выполнить пункты лабораторной
+    * Сделать отчет
+    
 ***
 ## Картиночка
 ![original](https://user-images.githubusercontent.com/105457873/168159706-707b85c8-cbfd-4b78-85f6-347120fb45b8.jpg)
-***
-
-                              
-                            
-паапва
-                     
+***    
                 
                          
